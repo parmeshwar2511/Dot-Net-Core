@@ -1,0 +1,9 @@
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Repository\bin\Debug\Repository.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Repository\bin\Debug\Repository.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Repository\bin\Debug\DAL.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Repository\bin\Debug\DAL.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Repository\obj\Debug\Repositories.csproj.AssemblyReference.cache
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Repository\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Repository\obj\Debug\Reposito.787EC4B2.Up2Date
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Repository\obj\Debug\Repository.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Repository\obj\Debug\Repository.pdb

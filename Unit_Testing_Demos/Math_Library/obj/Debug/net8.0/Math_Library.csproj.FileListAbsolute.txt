@@ -9,3 +9,15 @@ D:\Parmesh Git\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\Math_Library.dll
 D:\Parmesh Git\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\refint\Math_Library.dll
 D:\Parmesh Git\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\Math_Library.pdb
 D:\Parmesh Git\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\ref\Math_Library.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\bin\Debug\net8.0\Math_Library.deps.json
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\bin\Debug\net8.0\Math_Library.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\bin\Debug\net8.0\Math_Library.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\Math_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\Math_Library.AssemblyInfoInputs.cache
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\Math_Library.AssemblyInfo.cs
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\Math_Library.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\Math_Library.sourcelink.json
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\Math_Library.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\refint\Math_Library.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\Math_Library.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\obj\Debug\net8.0\ref\Math_Library.dll

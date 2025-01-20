@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Math_Library
-build_property.ProjectDir = D:\Parmesh Git\Unit_Testing_Demos\Math_Library\
+build_property.ProjectDir = D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\Math_Library\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

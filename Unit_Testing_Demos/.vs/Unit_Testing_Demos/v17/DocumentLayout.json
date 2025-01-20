@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Parmesh Git\\Unit_Testing_Demos\\",
+  "WorkspaceRootPath": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B02BC234-9410-48C8-BD73-4E022F6F619E}|Mathlibrary_UnitTesting\\Mathlibrary_UnitTesting.csproj|d:\\parmesh git\\unit_testing_demos\\mathlibrary_unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B02BC234-9410-48C8-BD73-4E022F6F619E}|Mathlibrary_UnitTesting\\Mathlibrary_UnitTesting.csproj|solutionrelative:mathlibrary_unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02396EDB-3F3A-432F-B78D-E2AD8FF67AC9}|Math_Library\\Math_Library.csproj|d:\\parmesh git\\unit_testing_demos\\math_library\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02396EDB-3F3A-432F-B78D-E2AD8FF67AC9}|Math_Library\\Math_Library.csproj|solutionrelative:math_library\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B02BC234-9410-48C8-BD73-4E022F6F619E}|Mathlibrary_UnitTesting\\Mathlibrary_UnitTesting.csproj|d:\\parmesh git\\unit_testing_demos\\mathlibrary_unittesting\\calculator_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B02BC234-9410-48C8-BD73-4E022F6F619E}|Mathlibrary_UnitTesting\\Mathlibrary_UnitTesting.csproj|solutionrelative:mathlibrary_unittesting\\calculator_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB388BAA-9E85-4A32-B46F-05CF02A2C694}|WebUi\\WebUi.csproj|d:\\parmesh git\\dot-net-core\\unit_testing_demos\\webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DB388BAA-9E85-4A32-B46F-05CF02A2C694}|WebUi\\WebUi.csproj|solutionrelative:webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Calculator_test.cs",
-              "DocumentMoniker": "D:\\Parmesh Git\\Unit_Testing_Demos\\Mathlibrary_UnitTesting\\Calculator_test.cs",
-              "RelativeDocumentMoniker": "Mathlibrary_UnitTesting\\Calculator_test.cs",
-              "ToolTip": "D:\\Parmesh Git\\Unit_Testing_Demos\\Mathlibrary_UnitTesting\\Calculator_test.cs",
-              "RelativeToolTip": "Mathlibrary_UnitTesting\\Calculator_test.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T09:49:06.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\Parmesh Git\\Unit_Testing_Demos\\Math_Library\\Calculator.cs",
-              "RelativeDocumentMoniker": "Math_Library\\Calculator.cs",
-              "ToolTip": "D:\\Parmesh Git\\Unit_Testing_Demos\\Math_Library\\Calculator.cs",
-              "RelativeToolTip": "Math_Library\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T09:29:52.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\Parmesh Git\\Unit_Testing_Demos\\Mathlibrary_UnitTesting\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Mathlibrary_UnitTesting\\UnitTest1.cs",
-              "ToolTip": "D:\\Parmesh Git\\Unit_Testing_Demos\\Mathlibrary_UnitTesting\\UnitTest1.cs",
-              "RelativeToolTip": "Mathlibrary_UnitTesting\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T09:42:28.873Z",
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\WebUi\\Web.config",
+              "RelativeDocumentMoniker": "WebUi\\Web.config",
+              "ToolTip": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\WebUi\\Web.config",
+              "RelativeToolTip": "WebUi\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-20T17:05:33.849Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,6 @@
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\MathLibrary_Old\bin\Debug\MathLibrary_Old.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\MathLibrary_Old\bin\Debug\MathLibrary_Old.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\MathLibrary_Old\obj\Debug\MathLibrary_Old.csproj.AssemblyReference.cache
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\MathLibrary_Old\obj\Debug\MathLibrary_Old.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\MathLibrary_Old\obj\Debug\MathLibrary_Old.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\MathLibrary_Old\obj\Debug\MathLibrary_Old.pdb

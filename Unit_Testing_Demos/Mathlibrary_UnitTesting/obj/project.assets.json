@@ -1018,11 +1018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Parmesh Git\\Unit_Testing_Demos\\Mathlibrary_UnitTesting\\Mathlibrary_UnitTesting.csproj",
-      "projectName": "Mathlibrary_UnitTesting",
-      "projectPath": "D:\\Parmesh Git\\Unit_Testing_Demos\\Mathlibrary_UnitTesting\\Mathlibrary_UnitTesting.csproj",
+      "projectUniqueName": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\Mathlibrary_UnitTesting\\MathLibrary_Tests.csproj",
+      "projectName": "MathLibrary_Tests",
+      "projectPath": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\Mathlibrary_UnitTesting\\MathLibrary_Tests.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Parmesh Git\\Unit_Testing_Demos\\Mathlibrary_UnitTesting\\obj\\",
+      "outputPath": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\Mathlibrary_UnitTesting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1040,8 +1040,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Parmesh Git\\Unit_Testing_Demos\\Math_Library\\Math_Library.csproj": {
-              "projectPath": "D:\\Parmesh Git\\Unit_Testing_Demos\\Math_Library\\Math_Library.csproj"
+            "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\Math_Library\\Math_Library.csproj": {
+              "projectPath": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\Math_Library\\Math_Library.csproj"
             }
           }
         }

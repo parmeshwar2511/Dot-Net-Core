@@ -1,0 +1,11 @@
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\BAL\bin\Debug\BAL.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\BAL\bin\Debug\BAL.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\BAL\obj\Debug\BAL.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\BAL\obj\Debug\BAL.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\BAL\bin\Debug\DAL.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\BAL\bin\Debug\Repository.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\BAL\bin\Debug\DAL.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\BAL\bin\Debug\Repository.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\BAL\obj\Debug\BAL.csproj.Up2Date

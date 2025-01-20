@@ -1,0 +1,6 @@
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\DAL\bin\Debug\DAL.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\DAL\bin\Debug\DAL.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\DAL\obj\Debug\DAL.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\DAL\obj\Debug\DAL.pdb
