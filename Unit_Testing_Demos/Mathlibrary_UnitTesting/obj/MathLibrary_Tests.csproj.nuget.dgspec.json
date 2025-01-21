@@ -62,6 +62,10 @@
               "target": "Package",
               "version": "[17.8.0, )"
             },
+            "Unity.Mvc5": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -128,6 +132,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Unity.Mvc5": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

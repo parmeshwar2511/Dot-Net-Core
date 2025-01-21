@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Math_Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7797355dcb53dcd6f50242883bcea5119fdddd4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f07728b498c8ac6256360cbe33febe11a3c89e27")]
 [assembly: System.Reflection.AssemblyProductAttribute("Math_Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Math_Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

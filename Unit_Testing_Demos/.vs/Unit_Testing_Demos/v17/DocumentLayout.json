@@ -3,7 +3,43 @@
   "WorkspaceRootPath": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB388BAA-9E85-4A32-B46F-05CF02A2C694}|WebUi\\WebUi.csproj|d:\\parmesh git\\dot-net-core\\unit_testing_demos\\webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{DC532310-DC36-456B-AB18-8C00997DFF8E}|WebUiTests\\WebUiTests.csproj|d:\\parmesh git\\dot-net-core\\unit_testing_demos\\webuitests\\categorycontrolertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC532310-DC36-456B-AB18-8C00997DFF8E}|WebUiTests\\WebUiTests.csproj|solutionrelative:webuitests\\categorycontrolertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB388BAA-9E85-4A32-B46F-05CF02A2C694}|WebUi\\WebUi.csproj|D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB388BAA-9E85-4A32-B46F-05CF02A2C694}|WebUi\\WebUi.csproj|solutionrelative:webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70CAA3-EE4A-4E0F-BF32-68886538ACA8}|BAL\\BAL.csproj|d:\\parmesh git\\dot-net-core\\unit_testing_demos\\bal\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D70CAA3-EE4A-4E0F-BF32-68886538ACA8}|BAL\\BAL.csproj|solutionrelative:bal\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70CAA3-EE4A-4E0F-BF32-68886538ACA8}|BAL\\BAL.csproj|D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\bal\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D70CAA3-EE4A-4E0F-BF32-68886538ACA8}|BAL\\BAL.csproj|solutionrelative:bal\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849883E-8651-40C3-A282-FDB5D9138CFE}|Repository\\Repositories.csproj|D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849883E-8651-40C3-A282-FDB5D9138CFE}|Repository\\Repositories.csproj|solutionrelative:repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849883E-8651-40C3-A282-FDB5D9138CFE}|Repository\\Repositories.csproj|D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849883E-8651-40C3-A282-FDB5D9138CFE}|Repository\\Repositories.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB388BAA-9E85-4A32-B46F-05CF02A2C694}|WebUi\\WebUi.csproj|D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\webui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB388BAA-9E85-4A32-B46F-05CF02A2C694}|WebUi\\WebUi.csproj|solutionrelative:webui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDA4AC6-4784-44F1-B3A3-33A824B2B3F1}|DAL\\DAL.csproj|D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDA4AC6-4784-44F1-B3A3-33A824B2B3F1}|DAL\\DAL.csproj|solutionrelative:dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDA4AC6-4784-44F1-B3A3-33A824B2B3F1}|DAL\\DAL.csproj|D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\dal\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDA4AC6-4784-44F1-B3A3-33A824B2B3F1}|DAL\\DAL.csproj|solutionrelative:dal\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB388BAA-9E85-4A32-B46F-05CF02A2C694}|WebUi\\WebUi.csproj|D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DB388BAA-9E85-4A32-B46F-05CF02A2C694}|WebUi\\WebUi.csproj|solutionrelative:webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -19,12 +55,129 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoryControlerTest.cs",
+              "DocumentMoniker": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\WebUiTests\\CategoryControlerTest.cs",
+              "RelativeDocumentMoniker": "WebUiTests\\CategoryControlerTest.cs",
+              "ToolTip": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\WebUiTests\\CategoryControlerTest.cs",
+              "RelativeToolTip": "WebUiTests\\CategoryControlerTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:54:29.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\WebUi\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebUi\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\WebUi\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WebUi\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T03:58:02.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\WebUi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebUi\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\WebUi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebUi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:52:42.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\BAL\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BAL\\CategoryService.cs",
+              "ToolTip": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\BAL\\CategoryService.cs",
+              "RelativeToolTip": "BAL\\CategoryService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:10:28.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\BAL\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BAL\\ICategoryService.cs",
+              "ToolTip": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\BAL\\ICategoryService.cs",
+              "RelativeToolTip": "BAL\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:18:59.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:59:54.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:55:54.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:51:57.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\DAL\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\Category.cs",
+              "ToolTip": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\DAL\\Category.cs",
+              "RelativeToolTip": "DAL\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:49:43.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\WebUi\\Web.config",
               "RelativeDocumentMoniker": "WebUi\\Web.config",
               "ToolTip": "D:\\Parmesh Git\\Dot-Net-Core\\Unit_Testing_Demos\\WebUi\\Web.config",
               "RelativeToolTip": "WebUi\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-01-20T17:05:33.849Z",
               "EditorCaption": ""

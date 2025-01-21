@@ -83,3 +83,17 @@ D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\Repository.dll
 D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\BAL.pdb
 D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\DAL.pdb
 D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\Repository.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\EntityFramework.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\EntityFramework.SqlServer.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\DAL.dll.config
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\EntityFramework.xml
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\EntityFramework.SqlServer.xml
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\Repository.dll.config
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\Unity.Abstractions.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\Unity.Container.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\Unity.Mvc5.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\BAL.dll.config
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\Unity.Abstractions.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUi\bin\Unity.Container.pdb
