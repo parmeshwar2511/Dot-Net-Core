@@ -9,9 +9,19 @@ public class CategoryService : ICategoryService
         _categoryRepo = categoryRepo;
     }
 
+    public void Create(Category category)
+    {
+        _categoryRepo.Create(category);
+    }
+
     public List<Category> GetAll()
     {
         return _categoryRepo.GetAll();
+    }
+
+    public Category GetById(int? id)
+    {
+        return _categoryRepo.GetById(id);
     }
 }
 

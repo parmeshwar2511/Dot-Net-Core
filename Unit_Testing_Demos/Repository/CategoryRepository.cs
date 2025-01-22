@@ -11,8 +11,19 @@ public class CategoryRepository : ICategoryRepository
         _context = context;
     }
 
+    public void Create(Category category)
+    {
+        _context.Categories.Add(category);
+        _context.SaveChanges();
+    }
+
     public List<Category> GetAll()
     {
        return _context.Categories.ToList();
+    }
+
+    public Category GetById(int? id)
+    {
+        return _context.Categories.Find(id);
     }
 }

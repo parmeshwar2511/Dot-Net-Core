@@ -81,5 +81,15 @@ D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\System.Web.W
 D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\System.Web.WebPages.Razor.xml
 D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\System.Web.Razor.xml
 D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\System.Web.WebPages.Deployment.xml
-D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\obj\Debug\WebUiTests.csproj.SuggestedBindingRedirects.cache
-D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\obj\Debug\WebUiTests.dll.config
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\System.Web.Helpers.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\WebGrease.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\Antlr3.Runtime.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\Newtonsoft.Json.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\System.Web.Helpers.xml
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\Antlr3.Runtime.pdb
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\Newtonsoft.Json.xml
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\Castle.Core.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\Castle.Core.xml
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Parmesh Git\Dot-Net-Core\Unit_Testing_Demos\WebUiTests\bin\Debug\Moq.dll

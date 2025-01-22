@@ -13,8 +13,9 @@ namespace WebUi.Controllers
         public CategoryController(ICategoryService service)
         {
             _service = service;
-        } 
+        }
 
+        [HttpGet]
         // GET: Category
         public ActionResult Index()
         {
@@ -22,5 +23,40 @@ namespace WebUi.Controllers
 
             return View(categories);
         }
+       
+        [HttpGet]
+        public ActionResult Create() 
+        {
+            return View("Create");
+        }
+
+        [HttpPost]
+        public ActionResult Create(Category category)
+        {
+
+            if (ModelState.IsValid)
+            {
+                _service.Create(category);
+                return RedirectToAction("Index");
+            }
+            return View(category);
+
+         }
+
+        [HttpGet]
+        public ActionResult Details(int? id)
+        {
+            if (id > 0)
+            {
+               Category category = _service.GetById(id);
+                if (category != null)
+                {
+                    return View(category);
+                }
+                return HttpNotFound();
+            }
+            return RedirectToAction("Index");
+        }
+
     }
 }
